@@ -1,0 +1,12 @@
+{
+  "name": "kumamon",
+  "version": "0.1.0",
+  "description": "A NodeJS IM framework, protocol is flexibility and customizability.",
+  "main": "index.js",
+  "repository": "git@github.com:charleslxh/kumamon.git",
+  "author": "charles.liao <charleslxh@icloud.com>",
+  "license": "Apache License",
+  "dependencies": {
+    "ioredis": "^2.5.0"
+  }
+}
